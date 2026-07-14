@@ -1,3 +1,4 @@
 print("Calculator Version 3")
-print("Addition module")
+print("Addition function")
 print("Multiplication Feature")
+print("Square Root Feature")
